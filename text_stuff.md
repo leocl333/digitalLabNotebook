@@ -13,7 +13,7 @@ You can also use underscores for the same effect __bold__
 
 You can combine **_bold and italics_**
 
-Do strikethroughs with ¬tilede¬
+Do strikethroughs with ~tilede~
 
 # List and bullet points
 
