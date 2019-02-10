@@ -40,3 +40,12 @@ If you want to create numbered list:
 
 You can create tables in MarkDown
 
+| Name | Occupation | Fav lolly |
+| ---- | ----: | :---- |
+| Claudia | PhD | choc |
+
+
+Some tip (s):
+
+* align columns using :
+* Tables are not used in MarkDown implementations - Use with caution
