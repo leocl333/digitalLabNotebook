@@ -19,3 +19,7 @@ Name in square bracket, link in normal bracket.
 Link to folder
 
 Link to [Awesome Protocol 1](Methods/Awesome_protocol1.md)
+
+# Embed image:
+
+![girl]()
