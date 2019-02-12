@@ -18,17 +18,17 @@ Bioinformatics postdoc.
 
   * Add "ezproxy.otago.ac.nz" after the ".com" of the journal page website to get free access.
 
-1. When you are not working, you feel guilty.
+2. When you are not working, you feel guilty.
 
 * Time management
 
-2. You don't have to be perfect
+3. You don't have to be perfect
 
   * Rutherford Foundations recipients
   
 ~Everybody's a critic~
 
-3. Feedback makes your stuff better.
+4. Feedback makes your stuff better.
 
   * Be specific about what you are looking for in feedback, where your manuscript is "going", and when you need revisions by.
 
@@ -38,19 +38,19 @@ Bioinformatics postdoc.
 
   * Use line numbers.
 
-4. People playing nice
+5. People playing nice
 
   * Always be nice to the admin stuff
   
   * kindnessinscience.org
   
-5. Funding can be hard to come by
+6. Funding can be hard to come by
 
   * Look for external funding.
   
   * Research enterprise funding.
   
-6. Jobs are hard to come by
+7. Jobs are hard to come by
 
   * Think ahead and outside the box
   
@@ -68,12 +68,12 @@ Bioinformatics postdoc.
   
   * Get other people to look through your job applications
   
-7. Opportunities are geographically disparate
+8. Opportunities are geographically disparate
 
 * Amazing people, amazing places.
 
-8. The two-body (or nobody) problem
+9. The two-body (or nobody) problem
 
-9. Competing life priorities
+10. Competing life priorities
 
 * You do you.
