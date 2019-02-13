@@ -65,5 +65,36 @@ Social media:
 1. Twitter - Professional face, talk about Science. Job opportunities, collaborations, projects, interact with the science community
 1. Facebook
 1. Instagram
-1. YouTube -> Make videos
+1. YouTube -> Make videos, science video channels, "The Conersation"
+
+VIdeos:
+1. Identify your audience
+1. Pick a style
+1. Don't try and cover everything - focus
+1. Get to the point -> reduce any messy preamble
+1. Connect with other science video communuicators
+1. Have a consistent presenter
+1. Be a person rather than a uni or company
+
+Blogging:
+1. Time commitment
+1. What blog?
+1. Be constructive - positive and upbeat way
+1. Sciblogs, The Conversation
+
+Build a website:
+1. Everyone should build your own website - WIX
+
+Talk to people EVERYWHERE and ANYWHERE.
+
+Lab in a box.
+
+Outreach certificate.
+
+Communications office.
+
+SCANZ
+
+Science media. Savvy.
+
 
