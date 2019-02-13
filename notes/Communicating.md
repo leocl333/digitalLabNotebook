@@ -83,7 +83,7 @@ Blogging:
 1. Sciblogs, The Conversation
 
 Build a website:
-1. Everyone should build your own website - WIX
+1. Everyone should build your own website - weebly.com
 
 Talk to people EVERYWHERE and ANYWHERE.
 
