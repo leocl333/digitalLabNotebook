@@ -1,6 +1,6 @@
 # Helen Taylor
 
-https://helentaylorscience.weebly.com
+Instagram, Weebly website, twitter
 
 Communicating your research
 
